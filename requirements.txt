@@ -1,0 +1,9 @@
+asgiref==3.8.1
+Django==4.2
+django-appconf==1.0.6
+django-cors-headers==4.4.0
+django-image-cropping==1.7
+djangorestframework==3.15.2
+easy-thumbnails==2.9
+pillow==10.4.0
+sqlparse==0.5.1
